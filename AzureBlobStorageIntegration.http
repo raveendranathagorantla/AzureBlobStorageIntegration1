@@ -1,0 +1,14 @@
+@AzureBlobStorageIntegration_HostAddress = https://localhost:7170
+
+GET {{AzureBlobStorageIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{AzureBlobStorageIntegration_HostAddress}}/api/properties
+
+###
+
+GET {{AzureBlobStorageIntegration_HostAddress}}/api/properties
+
+###
